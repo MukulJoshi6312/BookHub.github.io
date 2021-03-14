@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="deshboard">deshboard</string>
+    <string name="favourite">favourites</string>
+    <string name="profile">profile</string>
+    <string name="about_app">about app</string>
+    <string name="navigation_drawer">navigation drawer</string>
+    <string name="opne_drawer">opne drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <string name="dashboard">dashboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">dashboard fragment</string>
+    <string name="favourites">favourites</string>
+    <string name="profile_fragment">Profile fragment</string>
+    <string name="about_app_fragment">About app fragment</string>
+    <string name="mukul_joshi">Mukul joshi</string>
+    <string name="mukuljoshi6312_gamil_com">mukuljoshi6312@gamil.com</string>
+
+</resources>
